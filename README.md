@@ -89,5 +89,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Juan Pablo Yepes Tamayo**
- * M D Ahwireng
+* **M D Ahwireng**
